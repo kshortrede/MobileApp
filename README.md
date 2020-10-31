@@ -26,3 +26,4 @@ In-App Functionalities
   * User possibility to create personalized routines
   * 
  
+Disclaimer: upload of code is not permitted. Upload of in-app screenshots will be uploaded soon (once the app is released)
